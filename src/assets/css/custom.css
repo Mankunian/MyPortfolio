@@ -1,0 +1,42 @@
+.fw-600 {
+	font-weight: 600 !important;
+}
+
+.services {
+	background-color: #f8f9fa !important;
+}
+
+.footer {
+	padding: 1rem;
+}
+
+.h4 {
+	font-weight: 600;
+	font-size: 1.2rem;
+}
+
+body {
+	padding: 10px;
+}
+
+.custom-navbar {
+	padding-top: 0;
+}
+
+.section {
+	padding: 5rem 0;
+}
+
+.back-to-top i {
+	font-size: 2rem;
+    border: 1px solid;
+    border-radius: 30px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding: 3px;
+}
+
+.whatsapp {
+	border-radius: 50%;
+}
